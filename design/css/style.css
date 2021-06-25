@@ -1,0 +1,60 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Fraunces', serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Barlow', sans-serif;
+
+}
+
+.container {
+    display: flex;
+}
+
+/* Sections */
+.hero-section {
+    background-color: #3DBEFF;
+    color: #fff;
+}
+
+/* Headings */
+
+.big-heading {
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Fraunces', serif;
+}
+
+/* Title Section */
+
+#title .container-fluid {
+    padding: 2% 5% 7%;
+    text-align: left;
+  }
+  
+  .logo-image {
+    width: 10%;
+    position: absolute;
+    
+  }
+
+  /* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "barlow";
+    font-size: 2.5rem;
+    font-weight: regular;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+  }
